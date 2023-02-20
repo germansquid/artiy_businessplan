@@ -6,8 +6,8 @@
  2. Finanzplan
  3. Pitches
 
-*
-**
+***
+
 #### 1. Dozenten
 
 Ablage/Mirror der ursprünglichen Dateien aus der Vorlesung/Veranstaltung. Keine Rechte zur Weitergabe, kein eigenes geistiges Eigentun. Zur Verwendung als Vorlage freigegeben.
