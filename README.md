@@ -11,4 +11,4 @@ Jonas Rittirsch: <jk.rittirsch@mailbox.org>
 
 
 
-*last updated: 24.03.2022 by Rittirsch*
+*last updated: 21.02.2023 by [Rittirsch](https://github.com/germansquid) @germansquid*
