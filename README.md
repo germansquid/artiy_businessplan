@@ -4,7 +4,7 @@
 Projektdokumentationn und Businessplan - Abgabe Ende 2/23
 
 #### Repository administration
-Jonas Rittirsch: <jonas.rittirsch@hzd.hessen.de>
+Jonas Rittirsch: <jk.rittirsch@mailbox.org>
 @ger_squiddlet @germansquid
 
 
