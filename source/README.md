@@ -12,11 +12,11 @@
 
 Ablage/Mirror der ursprünglichen Dateien aus der Vorlesung/Veranstaltung. Keine Rechte zur Weitergabe, kein eigenes geistiges Eigentun. Zur Verwendung als Vorlage freigegeben.
 
-#### Finanzplan
+#### 2. Finanzplan
 
 Bisher zusammengestellte Ergebnisse der Aufgaben aus dieser und anderer inhaltsähnlicher Veranstaltungen. Hochrechnung über 24 Monate und deren Ausführungen mittlerweile als Abgabe bewertungsfertig eingereicht.
 
-#### Pitches
+#### 3. Pitches
 
 Hochglanzmaterial um Auftriff vor Publikum und oder Abgabe zu Informations- und Werbezwecken. Ggf. sind je nach Team und Samplesize Kontakt und Teilnehmer in den Folien anzupassen.
 
