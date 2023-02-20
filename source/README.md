@@ -2,13 +2,24 @@
 
 ### Table of content
 
- 1. Anleitungen
- 2. Kontakt
- 3. Technische Daten
- 4. Verbindung zu Node aufbauen
- 5. IP-Adressraum und Verwendung
- 6. Known issues
+ 1. Dozenten
+ 2. Finanzplan
+ 3. Pitches
 
-*last updated: 24.03.2022 by Rittirsch*
+*
+**
+#### 1. Dozenten
+
+Ablage/Mirror der ursprünglichen Dateien aus der Vorlesung/Veranstaltung. Keine Rechte zur Weitergabe, kein eigenes geistiges Eigentun. Zur Verwendung als Vorlage freigegeben.
+
+#### Finanzplan
+
+Bisher zusammengestellte Ergebnisse der Aufgaben aus dieser und anderer inhaltsähnlicher Veranstaltungen. Hochrechnung über 24 Monate und deren Ausführungen mittlerweile als Abgabe bewertungsfertig eingereicht.
+
+#### Pitches
+
+Hochglanzmaterial um Auftriff vor Publikum und oder Abgabe zu Informations- und Werbezwecken. Ggf. sind je nach Team und Samplesize Kontakt und Teilnehmer in den Folien anzupassen.
 
 ***
+
+*last updated: 21.02.2023 by [Rittirsch](https://github.com/germansquid) @germansquid*
